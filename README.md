@@ -13,4 +13,4 @@
 + Smooth scroll
 
 ## Preview:
-![Preview]()
+![Preview](https://github.com/RostyslavWeb/Portfolio-project/blob/main/portfolio-index.jpg)
