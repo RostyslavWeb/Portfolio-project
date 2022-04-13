@@ -1,0 +1,56 @@
+.section__contact {
+  .contact {
+    &__title {
+      font-style: normal;
+      font-weight: 700;
+      font-size: 46px;
+      line-height: 55px;
+      text-align: center;
+      color: #FFFFFF;
+      max-width: 668px;
+      width: 100%;
+      margin: 0 auto;
+
+      @media (max-width: 768px) {
+        font-size: 36px;
+        line-height: 42px;
+      }
+
+      @media (max-width: 500px) {
+        font-size: 28px;
+        line-height: 30px;
+      }
+    }
+
+    &__btn {
+      width: 260px;
+      height: 260px;
+      background: #1378EF;
+      border-radius: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-style: normal;
+      font-weight: 400;
+      font-size: 16px;
+      line-height: 150%;
+      text-align: center;
+      color: #FFFFFF;
+      margin: 0 auto;
+      margin-top: -108px;
+
+      @media (max-width: 768px) {
+        width: 200px;
+        height: 200px;
+        margin-top: -65px;
+      }
+
+      @media (max-width: 500px) {
+        width: 150px;
+        height: 150px;
+        font-size: 14px;
+        margin-top: -45px;
+      }
+    }
+  }
+}
