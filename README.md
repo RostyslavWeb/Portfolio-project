@@ -1,6 +1,6 @@
 # Portfolio-project
 
-**My own project developed to increase knowledge.**
+**My own project was developed to increase knowledge.**
 
 + responsive
 + HTML
