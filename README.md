@@ -1,6 +1,6 @@
 # Portfolio-project
 
-**My own project was developed to increase knowledge.**
+## Features:
 
 + responsive
 + HTML
